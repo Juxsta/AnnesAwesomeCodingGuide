@@ -1,4 +1,6 @@
 baseURL = "https://juxsta.github.io"
 languageCode = "en-us"
 title = "Anne's Awesome Coding Guide"
-theme="toha"
+theme="codex"
+[params]
+  github = "Juxsta/AnnesAwesomeCodingGuide"
