@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/juxsta/juxsta.github.io.git
 	branch = master
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hossainemruz/toha
