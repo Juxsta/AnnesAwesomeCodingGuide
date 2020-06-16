@@ -3,7 +3,7 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = https://github.com/juxsta/juxsta.github.io.git
+	url = https://github.com/Juxsta/juxsta.github.io
 	branch = master
 [submodule "themes/toha"]
 	path = themes/toha
