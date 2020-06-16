@@ -5,3 +5,10 @@ services:
 
 script:
 - docker run --rm -i -v $(pwd):/src klakegg/hugo:0.72.0
+
+deploy:
+  - provider: script
+    script: ./deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
