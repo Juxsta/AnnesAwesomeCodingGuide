@@ -1,7 +1,7 @@
 ---
 title: "Start here!!!"
 date: 2020-06-15T17:59:39-07:00
-draft: true
+draft: false
 ---
 ## Anne's Awesome Guide to Coding (Preface)
 I hope you find this useful! You can use this guide to reference all the lessons to be posted in the future. 
